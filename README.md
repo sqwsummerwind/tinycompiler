@@ -10,6 +10,8 @@
 4.只支持while, if, 不支持for, 等等
 
 
+
+
 运行方法：
 gcc -o compiler compiler.c (如果是64位，加上-m32)
 ./compiler test.c
